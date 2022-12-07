@@ -50,8 +50,8 @@
 }
 
 .st10 {
-    font-family: 'HelveticaNeue';
-    font-weight: bolder;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
 
 
 
@@ -60,7 +60,7 @@
 
 .st11 {
     font-size: 12px;
-    font-family: 'HelveticaNeue';
+    font-family: 'Inter', sans-serif;
   
 
 }
