@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+.st0 {
+    fill: none;
+}
+
+.st1 {
+    fill: #FFFFFF;
+}
+
+.st2 {
+    fill: #F3FE47;
+}
+
+.st3 {
+    fill: url(#SVGID_1_);
+}
+
+.st4 {
+    fill: #F46FBD;
+}
+
+.st5 {
+    fill: #1CD760;
+}
+
+.st6 {
+    fill: none;
+    stroke: #231F20;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-miterlimit: 10
+}
+
+.st7 {
+    fill: white;
+    stroke: #231F20;
+    stroke-miterlimit: 10;
+    transition: 1000ms;
+}
+
+.st8 {
+    fill: #121212;
+}
+
+.st9 {
+    fill: url(#SVGID_00000080891419873760382970000007963218098742709685_);
+}
+
+.st10 {
+    font-family: 'HelveticaNeue';
+    font-weight: bolder;
+
+
+
+}
+
+
+.st11 {
+    font-size: 12px;
+
+}
+
+
+.bassbutton:hover {
+    fill: #F46FBD;
+}
+
+.backgroundbutton:hover {
+    fill: #ff6a9b;
+}
+
+.drumsbutton:hover {
+    fill: #ff7176;
+}
+
+.guitarsbutton:hover {
+    fill: #ff8052;
+}
+
+.leadvocalsbutton:hover {
+    fill: #ff6a9b;
+}
+
+.orchestrabutton:hover {
+    fill: #f8952f;
+}
+
+.percussionbutton:hover {
+    fill: #daa907;
+}
+
+.synthsbutton:hover {
+    fill: #b4bc01;
+}
+
+.detunedbutton:hover {
+    fill: #1CD760;
+}
+
+.con {
+    transition: 1500ms;
+    transform: translateY(-51%);
+    fill: #F46FBD;
+}
+
+.con2 {
+    transition: 1550ms;
+    transform: translateY(-51%);
+    fill: #ff6a9b;
+}
+
+.con3 {
+    transition: 1300ms;
+    transform: translateY(-51%);
+    fill: #ff7176;
+}
+
+.con4 {
+    transition: 1350ms;
+    transform: translateY(-51%);
+    fill: #ff8052;
+}
+
+.con5 {
+    transition: 1200ms;
+    transform: translateY(-51%);
+    fill: #ff6a9b;
+}
+
+.con6 {
+    transition: 1600ms;
+    transform: translateY(-51%);
+    fill: #f8952f;
+}
+
+.con7 {
+    transition: 1800ms;
+    transform: translateY(-51%);
+    fill: #daa907;
+}
+
+.con8 {
+    transition: 1750ms;
+    transform: translateY(-51%);
+    fill: #b4bc01;
+}
+
+.con9 {
+    transition: 1000ms;
+    transform: translateY(-51%);
+    fill: #1CD760;
+}
